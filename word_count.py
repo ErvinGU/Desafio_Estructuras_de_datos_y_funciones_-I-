@@ -2,7 +2,7 @@ import sys
 
 
 if len(sys.argv) != 2:
-    print("<nombre_archivo>")
+    print("<archivo_texto>")
     sys.exit(1)
 
 nombre_archivo = sys.argv[1]
